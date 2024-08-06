@@ -33,7 +33,7 @@ A messaging server built with Node.js, MongoDB, and `socket.io`, providing funct
 1. Clone the repository:
     ```sh
     git clone https://https://github.com/mrsmithjsk/messaging
-    cd messaging-server
+    cd messaging
     ```
 
 2. Install dependencies:
